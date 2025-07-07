@@ -2,6 +2,7 @@
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@NikelMathD)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/yohanvillarp)
 
 🎓 Estudiante de Ingeniería de Sistemas desde 2022  
 💻 Apasionado por el desarrollo backend y las tecnologías web
