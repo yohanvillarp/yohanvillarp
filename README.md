@@ -1,10 +1,11 @@
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem8xOXN6NHZ1OG1pbDYyaG9qYmZqbW9reHh6ZmxveThoeDlwbjFsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="60" align="center"/> Hi there! Welcome to my GitHub profile
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohanvillarp/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@nikelyh)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-%23111927.svg?style=for-the-badge&logo=hackthebox&logoColor=%239FEF00)](https://profile.hackthebox.com/profile/019e9469-5a99-704b-ba04-3caa987ecaff)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/yohanvillarp/)
 [![JetBrains Academy](https://img.shields.io/badge/Hyperskill-%23000000.svg?style=for-the-badge&logo=hyperskill&logoColor=white)](https://hyperskill.org/my-learning/623244307)
+[![daily.dev](https://img.shields.io/badge/daily.dev-%23CE3DF3.svg?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/nikelyh)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@nikelyh)
 
 ---
 
